@@ -1,0 +1,22 @@
+const users = [
+  { id: 1, name: "김ㅇㄱ", isDuty: true, ipAddr: "1.1.1.1"},
+  { id: 2, name: "김ㅇㄹ", isDuty: true, ipAddr: "1.1.1.1"},
+  { id: 3, name: "김ㅅㅈ", isDuty: false, ipAddr: "1.1.1.1"},
+  { id: 4, name: "김ㅎㅌ", isDuty: false, ipAddr: "1.1.1.1"},
+  { id: 5, name: "백ㅈㅈ", isDuty: false, ipAddr: "1.1.1.1"},
+  { id: 6, name: "최ㅈㅇ", isDuty: false, ipAddr: "1.1.1.1"},
+  { id: 7, name: "한ㄴㄹ", isDuty: false, ipAddr: "1.1.1.1"},
+  { id: 8, name: "정ㅈㅇ", isDuty: false, ipAddr: "1.1.1.1"},
+  { id: 9, name: "손ㅇㅎ", isDuty: false, ipAddr: "1.1.1.1"},
+  { id: 10, name: "정ㅇㅁ", isDuty: false, ipAddr: "1.1.1.1"},
+  { id: 11, name: "황ㅇㅈ", isDuty: false, ipAddr: "1.1.1.1"},
+  { id: 12, name: "곽ㄱㅇ", isDuty: false, ipAddr: "1.1.1.1"},
+  { id: 13, name: "김ㄷㅎ", isDuty: false, ipAddr: "1.1.1.1"},
+  { id: 14, name: "김ㅎㅈ", isDuty: false, ipAddr: "1.1.1.1"},
+  { id: 15, name: "신ㅈㅎ", isDuty: false, ipAddr: "1.1.1.1"},
+  { id: 16, name: "이ㅅㅎ", isDuty: false, ipAddr: "1.1.1.1"},
+  { id: 17, name: "이ㅇㅂ", isDuty: false, ipAddr: "1.1.1.1"},
+  { id: 18, name: "최ㅇㅇ", isDuty: false, ipAddr: "1.1.1.1"},
+  { id: 19, name: "하ㄴㄹ", isDuty: false, ipAddr: "1.1.1.1"},
+]
+export default users;
